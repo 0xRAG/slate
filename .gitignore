@@ -7,5 +7,7 @@ node_modules/
 # Keep example env
 !.env.example
 
+.env
 # OS files
 .DS_Store
+.idea
